@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="generator" content="Hugo 0.118.2">
-    <title>Gstão Task</title>
+    <title>Vitreus</title>
 
     @yield('styles')
 
@@ -245,6 +245,9 @@
       <div 
         class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
         <h1 class="h2">Dashboard</h1>
+        
+
+
       </div>
 
       {{-- <h2>Section title</h2>
